@@ -1,49 +1,36 @@
-[
-    {
-        "id": "1",
-        "name": "Home",
-        "url": "/",
-        "sub": [
-            {
-                "name": "Home page",
-                "url": "/",
-                "imageFile": "/"
-            }
-        ] 
-    },
-    {
-        "id": "2",
-        "name": "Payments",
-        "sub": [
-            {
-                "name": "Payment Details",
-                "url": "/",
-                "imageFile": "/"
-            },
-            {
-                "name": "Recuring payements",
-                "url": "/",
-                "imageFile": "/"
-            },
-            {
-                "name": "Pay Tax",
-                "url": "/",
-                "imageFile": "/"
-            },
-            {
-                "name": "Pay old dues",
-                "url": "/",
-                "imageFile": "/"
-            }
-        ]
-    },
-    {
-        "id": "3",
-        "name": "Reports",
-        "sub": [
-            {"name": "Reports - 1"}
-           ]
-    }
-        ]
-    }
+[{
+		"id": "1",
+		"name": "Home",
+		"url": "/",
+		"sub": [{
+			"name": "Home page",
+			"url": "/",
+			"imageFile": "/"
+		}]
+	},
+	{
+		"id": "2",
+		"name": "Payments",
+		"sub": [{
+				"name": "Payment Details",
+				"url": "/",
+				"imageFile": "/"
+			},
+			{
+				"name": "Recuring payements",
+				"url": "/",
+				"imageFile": "/"
+			},
+			{
+				"name": "Pay Tax",
+				"url": "/",
+				"imageFile": "/"
+			},
+			{
+				"name": "Pay old dues",
+				"url": "/",
+				"imageFile": "/"
+			}
+		]
+	}
 ]
