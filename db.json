@@ -1,0 +1,71 @@
+[
+    {
+        "id": "1",
+        "name": "Home",
+        "url": "/",
+        "imageFile": "/",
+        "sub": [
+            {
+                "name": "Home page",
+                "url": "/",
+                "imageFile": "/"
+            }
+        ] 
+    },
+    {
+        "id": "2",
+        "name": "Payments",
+        "sub": [
+            {
+                "name": "Payment Details",
+                "url": "/",
+                "imageFile": "/"
+            },
+            {
+                "name": "Recuring payements",
+                "url": "/",
+                "imageFile": "/"
+            },
+            {
+                "name": "Pay Tax",
+                "url": "/",
+                "imageFile": "/"
+            },
+            {
+                "name": "Pay old dues",
+                "url": "/",
+                "imageFile": "/"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Reports",
+        "sub": [
+            {"name": "Reports - 1"},
+            {"name": "Reports - 2"},
+            {"name": "Reports - 3 "},
+            {"name": "Reports - 4"}
+        ]
+    },
+    {
+        "id": "4",
+        "name": "About us",
+        "sub": [
+            {"name": "About us - 1"},
+            {"name": "About us - 2"},
+            {"name": "About us -3"},
+            {"name": "About us -4"}
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Contract Us",
+        "sub": [
+            {"name": "Contract Us-1"},
+            {"name": "Contract Us-2"},
+            {"name": "Contract Us-3"},
+            {"name": "Contract Us-4"}
+        ]
+    }
+]
